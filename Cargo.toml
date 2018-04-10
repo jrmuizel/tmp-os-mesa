@@ -1,0 +1,7 @@
+[package]
+name = "tmp-os-mesa"
+version = "0.1.0"
+authors = ["Jeff Muizelaar <jmuizelaar@mozilla.com>"]
+
+[dependencies]
+osmesa-src = { git = "https://github.com/servo/osmesa-src" }
